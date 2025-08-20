@@ -13,6 +13,7 @@ A Model Context Protocol (MCP) server implementation for Selenium WebDriver, ena
 ## Video Demo (Click to Watch)
 
 [![Watch the video](https://img.youtube.com/vi/mRV0N8hcgYA/sddefault.jpg)](https://youtu.be/mRV0N8hcgYA)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdischiavo-ncqa%2Fmcp-selenium.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdischiavo-ncqa%2Fmcp-selenium?ref=badge_shield)
 
 
 ## Features
@@ -443,3 +444,6 @@ None required
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdischiavo-ncqa%2Fmcp-selenium.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdischiavo-ncqa%2Fmcp-selenium?ref=badge_large)
